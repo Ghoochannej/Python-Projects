@@ -1,3 +1,3 @@
 # Python-Projects
 
-# Personal projects/exercises using Python
+Personal projects/exercises using Python
