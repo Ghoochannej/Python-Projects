@@ -2,6 +2,7 @@ from random import randint
 import sys
 
 def gerar_mao():
+	"""Função responsável por gerar a jogada"""
 	mao = ('tesoura', 'pedra', 'papel')
 	mao = mao[randint(0,2)]
 	return mao
